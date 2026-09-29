@@ -1,21 +1,66 @@
-<<<<<<< HEAD
-# React + Vite
+# K72 Website Recreation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A practice project inspired by the K72 website, built to explore modern frontend development, responsive layouts, and animations.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **React** – Building reusable UI components
+- **Tailwind CSS** – Styling and responsive layouts
+- **GSAP** – Creating animations and scroll-based interactions
+- **JavaScript** – Website functionality
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive website layout
+- Animated project cards
+- Hover effects and transitions
+- Scroll-triggered animations using GSAP
+- Reusable React components
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# K72
-A responsive K72 website recreation built with React, Tailwind CSS, and GSAP animations.
->>>>>>> fd340a25f6560fb2b0ba9feae7ad51dbe2b9af05
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Aditipandey44/K72.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd K72
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view the website.
+
+## What I Learned
+
+Through this project, I practiced:
+
+- Building reusable components in React
+- Styling layouts with Tailwind CSS
+- Using GSAP for animations and scroll interactions
+- Implementing hover effects
+- Working with Git and GitHub
+
+## Note
+
+This is a personal practice project created for learning and experimentation. It is inspired by the K72 website and is not an official project or an exact representation of the original website.
+
+## Author
+
+**Aditi Pandey**
+
+GitHub: [@Aditipandey44](https://github.com/Aditipandey44)
